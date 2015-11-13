@@ -1,0 +1,10 @@
+{
+  "jspm": {
+    "dependencies": {
+      "ts-test": "github:unional/jspm-ts-test@^0.1.6"
+    },
+    "devDependencies": {
+      "typescript": "npm:typescript@^1.6.2"
+    }
+  }
+}
