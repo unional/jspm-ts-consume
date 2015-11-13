@@ -1,6 +1,7 @@
 {
   "jspm": {
     "dependencies": {
+      "ts-named": "github:unional/jspm-ts-named@^0.1.0",
       "ts-test": "github:unional/jspm-ts-test@^0.1.6"
     },
     "devDependencies": {

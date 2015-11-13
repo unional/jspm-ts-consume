@@ -10,6 +10,7 @@ System.config({
   },
 
   map: {
+    "ts-named": "github:unional/jspm-ts-named@0.1.0",
     "ts-test": "github:unional/jspm-ts-test@0.1.6",
     "typescript": "npm:typescript@1.6.2",
     "github:frankwallis/plugin-typescript@2.2.1": {
@@ -23,6 +24,10 @@ System.config({
     },
     "github:jspm/nodelibs-util@0.1.0": {
       "util": "npm:util@0.10.3"
+    },
+    "github:unional/jspm-ts-named@0.1.0": {
+      "lodash": "npm:lodash@3.10.1",
+      "ts": "github:frankwallis/plugin-typescript@2.2.1"
     },
     "github:unional/jspm-ts-test@0.1.6": {
       "lodash": "npm:lodash@3.10.1",
