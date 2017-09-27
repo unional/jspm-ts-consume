@@ -1,4 +1,6 @@
 # jspm-ts-consume
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/unional/jspm-ts-consume.svg)](https://greenkeeper.io/)
 Consume module for testing ts module
 
 Consuming [jspm-ts-test](https://github.com/unional/jspm-ts-test) and [jspm-ts-named](https://github.com/unional/jspm-ts-named)
